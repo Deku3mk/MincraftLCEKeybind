@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/1774147330018_image.png" alt="Minecraft Legacy Console Edition" width="100%"/>
+<img src="media/preview.webp" alt="Minecraft Legacy Console Edition" width="100%"/>
 </p>
 
 <h1 align="center">Minecraft Legacy Console Edition — Key Binds</h1>
