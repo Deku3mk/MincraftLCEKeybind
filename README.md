@@ -59,4 +59,4 @@
 
 ---
 
-<p align="center">Made by <strong>8vy2</strong></p>
+<p align="center">Made by <strong>8vy2 on Discord</strong></p>
