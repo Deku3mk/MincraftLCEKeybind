@@ -50,7 +50,7 @@
 
 ## How to Use
 
-1. Clone or download the repo
+1. Download The [Release](https://github.com/Deku3mk/MincraftLCEKeybind/releases/tag/Release)
 2. Make sure the `media` folder has all 3 files in it
 3. Run `minecraft key binds.ahk`
 4. Click any bind button and press the key you want
